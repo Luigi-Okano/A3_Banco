@@ -1,5 +1,3 @@
-package A3_Banco;
-
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
